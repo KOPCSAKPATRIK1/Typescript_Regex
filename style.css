@@ -1,0 +1,29 @@
+.mezok {
+    margin-bottom: 30px;
+    width: 450px;
+    height: 35px;
+
+}
+body {
+    text-align: center;
+    background-color: wheat;
+}
+
+#elso {
+    margin-top: 100px;
+}
+
+.button-15 {
+    background-color: #e7e7e7; color: black;
+    font-size: 30px;
+}
+
+.button-15:disabled {
+  cursor: default;
+  opacity: .3;
+}
+
+.button-15:hover {
+background-color: green; color: white;
+  text-decoration: none;
+}
