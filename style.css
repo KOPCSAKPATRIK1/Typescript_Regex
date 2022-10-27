@@ -1,7 +1,8 @@
 .mezok {
     margin-bottom: 30px;
     width: 450px;
-    height: 35px;
+    border-radius: 25px;
+    padding: 20px;
 
 }
 body {
@@ -16,14 +17,20 @@ body {
 .button-15 {
     background-color: #e7e7e7; color: black;
     font-size: 30px;
+    border-radius: 25px;
+    padding: 20px;
 }
 
 .button-15:disabled {
   cursor: default;
   opacity: .3;
+  border-radius: 25px;
+  padding: 20px;
 }
 
 .button-15:hover {
 background-color: green; color: white;
   text-decoration: none;
+  border-radius: 25px;
+  padding: 20px;
 }
